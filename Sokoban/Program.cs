@@ -17,7 +17,7 @@
             Console.BackgroundColor = ConsoleColor.DarkBlue;
             Console.ForegroundColor = ConsoleColor.White;
             Console.CursorVisible = false;         
-            Console.Title = "소코반 만들자";
+            Console.Title = "이남원의 소코반 만들자";
             Console.Clear();
 
             // 게임 데이터 초기화
